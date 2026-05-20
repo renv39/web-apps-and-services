@@ -30,7 +30,7 @@ JavaScript · React · Next.js · Node.js · Express · MongoDB Atlas · Mongoos
 
 These three projects follow a **data-first approach**: build an API (1), consume it with vanilla JavaScript (2), then rebuild the frontend in React/Next.js (3). This mirrors a real-world scenario where a backend exists and the frontend evolves from a prototype to a modern framework.
 
-See also: **[met-artwork-explorer](https://github.com/rendellvelasco/met-artwork-explorer)** — a full stack authenticated Next.js app with JWT auth, state management, and Vercel deployment, built later in the same course.
+See also: **[met-artwork-explorer](https://github.com/renv39/met-artwork-explorer)** — a full stack authenticated Next.js app with JWT auth, state management, and Vercel deployment, built later in the same course.
 
 ---
 
