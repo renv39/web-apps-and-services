@@ -5,7 +5,7 @@ A React/Next.js rebuild of the Listings Explorer, replacing the vanilla JavaScri
 ## Demo
 
 <!-- Add a short video or GIF showing the accordion, pagination, about page, and dynamic listing route -->
-> _Demo video coming soon_
+> [LIVE listings-nextjs](https://web422-assignment-3-h7ax.onrender.com)
 
 ## Learning Outcomes
 
