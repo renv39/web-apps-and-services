@@ -5,7 +5,7 @@ A client-side single-page application that consumes the Listings API to display 
 ## Demo
 
 <!-- Add a short video or GIF showing the table, search, pagination, and modal -->
-> _Demo video coming soon_
+> [Live listings-explorer](https://web422-a2-mvel.onrender.com/)
 
 ## Learning Outcomes
 
