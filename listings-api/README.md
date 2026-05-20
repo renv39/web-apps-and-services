@@ -5,7 +5,7 @@ A RESTful Web API built with Node.js and Express for managing Airbnb-style prope
 ## Demo
 
 <!-- Add a short video or GIF showing API requests in Postman/Thunder Client -->
-> _Demo video coming soon_
+> [Live listings-api](https://web422-assignment-1-8zqi.onrender.com)
 
 ## Learning Outcomes
 
